@@ -1,0 +1,73 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>วัดใหญ่ชัยมงคล</title>
+<link href="https://fonts.googleapis.com/css?family=Niramit|Pattaya&effect=outline&display=swap" rel="stylesheet">
+<style>
+       h6{
+         font-family: 'Niramit', serif;
+         font-size: 70px;
+         text-shadow: 4px 4px 4px #aaa;
+         background-color: #653c7e;
+         background-color: rgba 225,225,225,25;
+     }
+         body {
+          font-family: 'Pattaya', serif;
+          font-size: 22px;
+          background-image: url("images/p2.jpg");
+    }
+        body{
+        background-color : #4b1e2a;
+        }
+</style>
+</head>
+<body>
+
+<p><a name="วัดใหญ่ชัยมงคล"></a></p>
+<h1 align="center"><font color="red">วัดใหญ่ชัยมงคล แดนชัยอโยธยาศรีรามเทพนคร</br>พระนครศรีอยุธยา</font></h1>
+<hr width="80%" align="center"color="pink" />
+
+<h2 align="center"><font color="green">ประวัติ วัดใหญ่ชัยมงคล แห่งอยุธยา</font></h2>
+<hr width="30%" align="center"color="red" />
+
+<p align="center"><font  color="Purple">วัดใหญ่ชัยมงคล จังหวัดพระนครศรีอยุธยา
+<p align="center">วัดใหญ่ชัยมงคล เดิมชื่อ "วัดป่าแก้ว" หรือ "วัดเจ้าไท" ตั้งอยู่ทางทิศตะวันออกเฉียงใต้ของเกาะพระนคร สร้างขึ้นเมื่อ พ.ศ. 1900</p>
+<p align="center">เป็นที่พำนักของพระภิกษุคณะป่าแก้ว ซึ่งมี สมเด็จพระวันรัตน์เป็นประธานสงฆ์ จึงได้ชื่อว่า วัดเจ้าพระยาไทยคณะป่าแก้วสันนิษฐานว่าเป็นที่กระทำการเสี่ยงเทียน ในคราวก่อนที่พระเฑียรราชาจะทรงปราบดาภิเษก ยึดอำนาจจากขุนวรวงศาธิราชและท้าวศรีสุดาจันทร์ วัดป่าแก้ว หรือวัดเจ้าไท</p>
+<p align="center">ต้องร้างลงเมื่อคราวเสียกรุงศรีอยุธยาครั้งที่ 2 ประมาณ พ.ศ. 2309 อาณาจักรคองบองได้ยกพลมาประชิดพระนครศรีอยุธยา สมเด็จพระที่นั่งสุริยาตรมรินทร์โปรดเกล้า ให้ยกทัพเรือออกจากพระนคร ไปตั้งอยู่ที่วัดป่าแก้ว แต่ทัพเรือสยามเสียทีข้าศึก พระยาเพชรบุรีถูกสังหาร กองทัพอาณาจักรคองบองบางส่วนได้ยึดเอาวัดป่าแก้วเป็นฐานปฏิบัติการ เมื่อกรุงศรีอยุธยาแตกใน พ.ศ. 2310 วัดแห่งนี้จึงได้ร้างลง</p>
+<p align="center">ปัจจุบันเป็นพื้นที่ตำบลคลองสวนพลู อำเภอพระนครศรีอยุธยา</p></br>
+<hr width="70%" align="center"color="red" />
+
+<h2 align="center">การมาเที่ยวชมวัดใหญ่ชัยมงคล</h2>
+<hr width="24%" align="center"color="Brown" />
+
+<p align="center"><font  color="green">signatureของวัดใหญ่ชัยมงคล</p>
+<p align="center">จุดเด่นของวัดคือ เจดีย์องค์ใหญ่ที่สูงประมาณ 60 ม. ได้รับการปฏิสังขรณ์ขึ้นใหม่ในสมัยสมเด็จพระนเรศวรมหาราช มีการค้นพบชัยมงคลคาถา/p>
+<p align="center">บรรจุอยู่ภายในพระอุโบสถ เป็นที่ประดิษฐานพระพุทธชัยมงคล พระประธานที่เป็นสิ่งศักดิ์สิทธิ์ของวัด นอกจากนี้ ภายในวัดยังเป็นที่ประดิษฐาน</p>
+<p align="center">ศาลสมเด็จพระนเรศวรมหาราช ที่ก่อสร้างแล้วเสร็จในปีพ.ศ. 2544 อีกด้วย</p>
+<hr width="70%" align="center"color="violet" /></br>
+
+<h2 align="center"><font color="MediumVioletRed">รูปภาพบรรยากาศภายในวัดใหญ่ชัยมงคล</h2></font>
+
+<h2 align="center"><img src="images/p2.jpg" width="300" height="200">
+<h2 align="center"><img src="images/p3.jpg" width="300" height="200">
+<h2 align="center"><img src="images/p8.jpg" width="300" height="200">
+<h2 align="center"><img src="images/p9.jpg" width="300" height="200">
+
+<hr width="40%" align="center"color="Brown" />
+
+
+<h2 align="center"><font color="pink">videoภายในวัวัดใหญ่ชัยมงคล</h2></font>
+<p align="center"> <video width="640" height="360" controls>
+  <source src="videos/วัดใหญ่ชัย.mp4" type>
+</video>
+<hr width="30%" align="center"color="red" />
+
+<h2 align="center"><font color="blue">แผนที่ไปยังวัดใหญ่ชัยมงคล</h2></font>
+<p align="center"><iframe src="https://www.google.com/maps/d/embed?mid=1ZzkiD-9YBb0eiJcJf3H_Zx04KvelQjpb" width="640" height="480"></iframe>
+<hr width="40%" align="center"color="Brown" />
+
+
+<p><a href="#top">Back to top</a></p>
+
+</body>
+</html>
